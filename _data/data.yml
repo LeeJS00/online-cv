@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Jaeseung Lee
     tagline: MS.-Ph.D student at EE, POSTECH from 2022
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile_js.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: jae2seung@postech.ac.kr
