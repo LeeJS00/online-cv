@@ -82,7 +82,7 @@ experiences:
         
 projects:
     title: Projects
-    intro: > Participated projects and assignments
+    intro: Participated projects and assignments
     assignments:
       - title: Development of AI Model for Performance Prediction of Display Panel
         link: "#hook"
