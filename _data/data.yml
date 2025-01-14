@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Jaeseung Lee
     tagline: MS.-Ph.D student at EE, POSTECH from 2022
-    avatar: profile_js.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile_JS.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: jae2seung@postech.ac.kr
@@ -64,7 +64,7 @@ education:
       - degree: B.S. from CiTE and CSE 
         university: POSTECH, Pohang
         time: Mar.2018 ~ Feb.2022
-        details: Convergence IT Engineering & Computer Science Engineering plural major
+        details: Convergence IT Engineering & Computer Science Engineering double major
             - Bullet point
             - Bullet point
       - degree: M.S. to Ph.D from EE
@@ -87,20 +87,34 @@ projects:
       - title: Development of AI Model for Performance Prediction of Display Panel
         link: "#hook"
         tagline: "ML based display panel circuit SPICE simulator. "
+    
+      - title: Dummy metal fill (Planned)
+        link: "#hook"
+        tagline: "ML based efficient dummy fill. "
 
 publications:
     title: Publications
     intro: Published or on-going papers
     papers:
-      - title: Multi-Source Transfer Learning for Design Technology Co-Optimization
-        link: 
-        authors: Jakang Lee, Jaeseung Lee, Seonghyeon Park, and Seokhyeong Kang.
-        conference: ISLPED (2023 published)
+        - title: Multi-Source Transfer Learning for Design Technology Co-Optimization
+            link: https://ieeexplore.ieee.org/document/10244484/
+            authors: Jakang Lee, Jaeseung Lee, Seonghyeon Park, and Seokhyeong Kang.
+            conference: ISLPED (2023 published)
 
-      - title: Machine Learning-based Fast Circuit Simulation for Analog Circuit Array
-        link: 
-        authors: Jaeseung Lee, Sejin Park, Minhyeok Kwon, and Seokhyeong Kang.
-        conference: MLCAD (2023 published)
+        - title: Machine Learning-based Fast Circuit Simulation for Analog Circuit Array
+            link: https://ieeexplore.ieee.org/iel7/10299723/10299805/10299876.pdf
+            authors: Jaeseung Lee, Sejin Park, Minhyeok Kwon, and Seokhyeong Kang.
+            conference: MLCAD (2023 published)
+
+        - title: LIBMixer: An all-MLP Architecture for Cell Library Characterization towards Design Space Optimization
+            link: 
+            authors: Jaeseung Lee, Sunggyu Jang, Jakang Lee, and Seokhyeong Kang.
+            conference: ASP-DAC (2025 published)
+
+        - title: Leveraging Machine Learning Techniques to Enhance Traditional EDAWorkflows
+            link: 
+            authors: Jinoh Cho*, Jaekyung Im*, Jaeseung Lee*, Kyungjun Min*, Seonghyeon Park*, Jaemin Seo*, Jongho Yoon* and Seokhyeong Kang*.
+            conference: ASP-DAC (2025 published, invited)
 
 
 skills:
@@ -108,25 +122,22 @@ skills:
 
     toolset:
       - name: C & Cpp
-        level: 80%
+        level: 70%
 
       - name: Python & Pytorch
-        level: 90%       
+        level: 80%       
        
       - name: Innovus
-        level: 70%
+        level: 60%
         
       - name: Verilog & HLS
-        level: 60%                      
+        level: 50%                      
         
       - name: Java & Flutter
-        level: 70%
-        
-      - name: HTML5 & CSS
-        level: 70%
+        level: 50%
         
       - name: Javascript & jQuery
-        level: 60%
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
